@@ -1,6 +1,9 @@
 
 ### <p align="center"> Hi there I am Ameni HAMDI 👋 </p>
 
+### <p align="center"> Full Stack Developer </p>
+
+![](https://media.giphy.com/media/juua9i2c2fA0AIp2iq/giphy.gif)
 
 
 - 🔭 Full Stack Developer
