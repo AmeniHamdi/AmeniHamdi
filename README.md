@@ -3,6 +3,8 @@
 
 ### <p align="center"> Full Stack Developer </p>
 
+### Languages and Tools:
+![](https://raw.githubusercontent.com/abranhe/programming-languages-logos/HEAD/src/programming-languages.png)
 ![](https://media.giphy.com/media/juua9i2c2fA0AIp2iq/giphy.gif)
 
 
