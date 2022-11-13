@@ -2,11 +2,12 @@
 
 ### <p align="center"> Full Stack Developer </p>
 <p align="center">
- 🔭 Full Stack Developer
- 🌱 DevOps Hat 
- 🤔 I’m looking to Build Cool Stuffs
- 📫 How to reach me: ameni.hamdi@esprit.tn
+- 🔭 Full Stack Developer
+- 🌱 DevOps Hat 
+- 🤔 I’m looking to Build Cool Stuffs
+- 📫 How to reach me: ameni.hamdi@esprit.tn
   </p>
+  
 ![](https://media.giphy.com/media/juua9i2c2fA0AIp2iq/giphy.gif)
 
 <p align=center>
