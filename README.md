@@ -1,11 +1,12 @@
 ### <p align="center"> Hi there I am Ameni HAMDI 👋 </p>
 
 ### <p align="center"> Full Stack Developer </p>
-
-- 🔭 Full Stack Developer
-- 🌱 DevOps Hat 
-- 🤔 I’m looking to Build Cool Stuffs
-- 📫 How to reach me: ameni.hamdi@esprit.tn
+<p align="center">
+ 🔭 Full Stack Developer
+ 🌱 DevOps Hat 
+ 🤔 I’m looking to Build Cool Stuffs
+ 📫 How to reach me: ameni.hamdi@esprit.tn
+  </p>
 ![](https://media.giphy.com/media/juua9i2c2fA0AIp2iq/giphy.gif)
 
 <p align=center>
